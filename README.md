@@ -1,5 +1,15 @@
 # ✈️ Ace Combat 8: Wings of Theve — Ultimate Offline Trainer & Mod Collection
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=1800&pause=400&color=00E5A0&center=true&vCenter=true&multiline=true&width=950&height=120&lines=%5B+AIRCRAFT+ONLINE+%5D+%E2%96%BA+WINGS+OF+THEVE;MISSILE+LOCK+ACQUIRED+%E2%96%BA+TARGET+CONFIRMED;RECLAIM+THE+SKIES+%E2%96%BA+DEFEND+THE+FCU" alt="Ace Combat 8 Typing Animation" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Ace Combat Radar Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=1400&pause=300&color=00E5A0&center=true&vCenter=true&width=900&lines=%5B+HUD+%5D+%E2%96%BA+ALT+24%2C000+FT+%7C+MACH+1.2;%5B+RWR+%5D+%E2%96%BA+THREAT+DETECTED+%E2%96%BA+EVADE;%5B+MISSION+%5D+%E2%96%BA+OPERATION+WINGS+OF+THEVE" alt="Ace Combat HUD Status" />
+</p>
 <p align="center">
   <b>Take to the Skies | Reclaim Your Homeland | Become the Legend</b>
 </p>
